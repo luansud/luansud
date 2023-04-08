@@ -1,8 +1,8 @@
 ### Olá, Eu sou o Luã Felizola 👋
 
-- 🔭 I’m currently working on Java (Android Studio)
+- 🔭 I’m currently working as IT manager
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Web Developer
+- 👯 I’m looking to collaborate on dev. Back-end 
 - 💬 Contact: luanfmedeiros@hotmail.com ...
 ##
 <div align="center">
