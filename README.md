@@ -1,8 +1,8 @@
 ### Olá, Eu sou o Luã Felizola 👋
 
 - 🔭 I’m currently working as IT manager
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on dev. Back-end 
+- 🌱 I’m currently learning Cybersecurity
+- 👯 I’m looking to collaborate on Secure Analyst
 - 💬 Contact: luanfmedeiros@hotmail.com ...
 ##
 <div align="center">
