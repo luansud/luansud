@@ -1,4 +1,4 @@
-![image](https://github.com/luansud/luansud/assets/36764718/05c29247-d2db-4938-b43c-1c98f43fd6c3)### Olá, Eu sou o Luã Felizola 👋
+### Olá, Eu sou o Luã Felizola 👋
 
 - 👨🏼‍💼 I’m currently working as IT manager
 - 🌱 I’m currently learning Cybersecurity
