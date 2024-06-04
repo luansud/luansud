@@ -8,8 +8,8 @@
 ##
 <div align="center">
   <a href="https://github.com/luansud">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=luansud&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luansud&layout=compact&langs_count=7&theme=algolia"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=luansud&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luansud&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
   <div style="display: inline_block"><br>
@@ -33,7 +33,6 @@
 </div>
 <br>
 
-
 <div> 
   <a href="https://www.instagram.com/luafsoares/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luanti.sud@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -41,5 +40,3 @@
   <a href="https://www.linkedin.com/in/luan-felizola/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href="https://www.facebook.com/luan.felizola" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
 </div>
-
-<!-- https://picrew.me/image_maker/51747/complete?cd=OwnBHG6CMo  -->
