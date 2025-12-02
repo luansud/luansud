@@ -1,10 +1,8 @@
-### Olá, Eu sou o Luã Felizola 👋
+### Hello, My name is Luã Felizola 👋
 
-- 👨🏼‍💼 I’m currently working as IT manager
 - 🌱 I’m currently learning Cybersecurity
 - 👨🏼‍💻 I'm looking for a job as a security analyst 
 - 💬 Contact: luanfmedeiros@hotmail.com
-- 📞 Whatsapp: +5579988211842
 ##
 <div align="center">
   <a href="https://github.com/luansud">
