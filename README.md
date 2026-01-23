@@ -1,7 +1,6 @@
 ### Hello, My name is Luã Felizola 👋
 
-- 🌱 I’m currently learning Cybersecurity
-- 👨🏼‍💻 I'm looking for a job as a security analyst 
+- 🌱 Entering the world of Cybersecurity
 - 💬 Contact: luanfmedeiros@hotmail.com
 ##
 <div align="center">
