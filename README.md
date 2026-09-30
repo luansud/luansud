@@ -1,14 +1,12 @@
-# Hey there! I'm Luã Felizola 👋
+Hey there! I'm Luã Felizola 👋
 
-**Cybersecurity Student** | **IT Specialist** | **Peer Tutor**
+Cybersecurity Student @ BYU-Idaho | Cloud Security | CompTIA Security+
 
-I'm a Brazilian IT Professional with 9+ years of experience in support, development, and infrastructure management. Currently pursuing a **B.S. in Cybersecurity** at BYU-Idaho while working as a peer tutor helping students with programming and web development.
+Brazilian IT professional with 9+ years of hands-on experience in infrastructure, systems administration, and security. Currently pursuing a B.S. in Cybersecurity at BYU-Idaho and building toward a career in Cloud Security Engineering.
 
-## 🔭 What I'm Working On
-
-- Building my cybersecurity skillset (CompTIA Security+ prep)
-- Full-stack web development with .NET/Blazor and Node.js
-- Creating tutoring materials to help fellow students succeed
+🔭 What I'm Working On
+🔨 cloudsec-audit — Go CLI that audits AWS accounts against the CIS AWS Foundations Benchmark
+☁️ aws-flaws-writeup — Walkthroughs of the flAWS AWS security challenges: the misconfiguration, the exploit, and the fix
 
 ## 🛠️ Tech Stack
 
